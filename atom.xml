@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://lzebin.github.io</id>
+    <title>Zeb</title>
+    <updated>2020-06-08T08:49:19.170Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://lzebin.github.io"/>
+    <link rel="self" href="https://lzebin.github.io/atom.xml"/>
+    <subtitle>世间百态 人性丑恶</subtitle>
+    <logo>https://lzebin.github.io/images/avatar.png</logo>
+    <icon>https://lzebin.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, Zeb</rights>
+    <entry>
+        <title type="html"><![CDATA[这是我的第一篇博客]]></title>
+        <id>https://lzebin.github.io/post/One/</id>
+        <link href="https://lzebin.github.io/post/One/">
+        </link>
+        <updated>2020-06-08T08:19:26.000Z</updated>
+    </entry>
+</feed>
