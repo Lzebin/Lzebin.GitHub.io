@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://lzebin.coding.net/</id>
+    <id>https://lzebin.github.io</id>
     <title>Zeb</title>
-    <updated>2020-06-20T08:07:50.078Z</updated>
+    <updated>2020-06-20T08:08:43.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://lzebin.coding.net/"/>
-    <link rel="self" href="https://lzebin.coding.net/atom.xml"/>
+    <link rel="alternate" href="https://lzebin.github.io"/>
+    <link rel="self" href="https://lzebin.github.io/atom.xml"/>
     <subtitle>世间百态 人性丑恶</subtitle>
-    <logo>https://lzebin.coding.net/images/avatar.png</logo>
-    <icon>https://lzebin.coding.net/favicon.ico</icon>
+    <logo>https://lzebin.github.io/images/avatar.png</logo>
+    <icon>https://lzebin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Zeb</rights>
     <entry>
         <title type="html"><![CDATA[这是我的第一篇博客]]></title>
-        <id>https://lzebin.coding.net/post/One/</id>
-        <link href="https://lzebin.coding.net/post/One/">
+        <id>https://lzebin.github.io/post/One/</id>
+        <link href="https://lzebin.github.io/post/One/">
         </link>
         <updated>2020-06-08T08:19:26.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
-        <id>https://lzebin.coding.net/post/ce-shi/</id>
-        <link href="https://lzebin.coding.net/post/ce-shi/">
+        <id>https://lzebin.github.io/post/ce-shi/</id>
+        <link href="https://lzebin.github.io/post/ce-shi/">
         </link>
         <updated>2020-06-08T08:55:47.000Z</updated>
     </entry>
